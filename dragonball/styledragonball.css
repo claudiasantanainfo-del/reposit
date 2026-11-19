@@ -1,0 +1,29 @@
+body {
+    
+            /* Cor do plano de fundo */
+            background-color: #1a56ce; 
+            /* Cor da letra (texto) */
+            color: #e014be; 
+            /* Tipo da letra (fonte) */
+            font-family: Arial, sans-serif; 
+        }
+        .card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 0;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+body {
+  font-family: 'Rubik', sans-serif;
+  display: flex;
+  justify-content: center;
+
+}
+img {
+  max-width: 20%;
+  max-height: 20%;
+}
+
+

@@ -1,0 +1,25 @@
+body {
+    
+            /* Cor do plano de fundo */
+            background-color: #1a56ce; 
+            /* Cor da letra (texto) */
+            color: #e014be; 
+            /* Tipo da letra (fonte) */
+            font-family: Arial, sans-serif; 
+        }
+        body {
+  background-color: rgb(139, 7, 62); /* ou mude para outra cor, como black ou #000 */
+}
+.container {
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgb(100, 28, 167);
+}
+img {
+  max-width: 20%;
+  max-height: 20%;
+}
+
+
+
+
